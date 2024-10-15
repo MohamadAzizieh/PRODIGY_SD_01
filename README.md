@@ -6,3 +6,5 @@ My first task as an intern at Prodigy InfoTech!
   <li>Used the factory design pattern for temperatures</li>
   <li>Comming soon: GUI</li>
 </ol>
+
+## Functionality not available yet!
