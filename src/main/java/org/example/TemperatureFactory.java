@@ -1,6 +1,5 @@
 package org.example;
 
-import java.awt.event.KeyEvent;
 
 public class TemperatureFactory{
     public static Temperature createTemperature(int type, double value){
@@ -12,7 +11,7 @@ public class TemperatureFactory{
             case 2: // Kelvin
                 return new Kelvin(value);
             default:
-                throw new RuntimeException();
+                throw new RuntimeException("invalid temperature unit!");
         }
 
     }
