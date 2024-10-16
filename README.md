@@ -4,7 +4,7 @@ My first task as an intern at Prodigy InfoTech!
 <h2>Info:</h2>
 <ol>
   <li>Used the factory design pattern for temperatures</li>
-  <li>Comming soon: GUI</li>
+  <li>Added a GUI for the java application</li>
 </ol>
 
-## Functionality not available yet!
+## Task is fully functional
