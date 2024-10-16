@@ -18,9 +18,9 @@ public class Main{
         JLabel inputLabel = new JLabel("Enter a number:");
         JTextField inputField = new JTextField(10);
         JButton submitButton = new JButton("Submit");
-        JLabel outputLabel1 = new JLabel("Converted in Celsius: ");
-        JLabel outputLabel2 = new JLabel("Converted in Fahrenheit: ");
-        JLabel outputLabel3 = new JLabel("Converted in Kelvin: ");
+        JLabel outputLabel1 = new JLabel("Converted in Celsius:     | ");
+        JLabel outputLabel2 = new JLabel("Converted in Fahrenheit:     | ");
+        JLabel outputLabel3 = new JLabel("Converted in Kelvin:  ");
 
         // Create radio buttons
         JRadioButton option1 = new JRadioButton("Celsius");
